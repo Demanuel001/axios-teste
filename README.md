@@ -1,5 +1,5 @@
 # Busca CEP com AXIOS
-**Projeto desenvolvido durante a aula de ReactJS com do canal [Sujeito programador](https://www.youtube.com/watch?v=oy4cbqE1_qc) com o instrutor [Matheus Fraga](https://github.com/devfraga)**
+**Projeto desenvolvido durante a aula de ReactJS do canal [Sujeito programador](https://www.youtube.com/watch?v=oy4cbqE1_qc) com o instrutor [Matheus Fraga](https://github.com/devfraga)**
 
 <!-- <h1 align="center">
     <img alt="gif da tela buscar cep" src="./src/img/busca-cep.gif">
